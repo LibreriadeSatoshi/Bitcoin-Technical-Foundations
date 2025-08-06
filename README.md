@@ -20,7 +20,7 @@ Students begin by understanding the fundamentals of value, money, and financial 
 - *The Internet of Money*, a collection of talks by Andreas M. Antonopoulos ([Original Talks](https://aantonop.com/the-internet-of-money/))
 
 #### Core Textbooks
-- Schools of Economic Thought
+-  ([Schools of Economic Thought](https://aantonop.com/the-internet-of-money/](https://www.hetwebsite.net/het/fonseca/notes/schoolsofthought.pdf))
 - Ferguson, N. (2008). *The Ascent of Money: A Financial History of the World*. Penguin Press.
 - Graeber, D. (2011). *Debt: The First 5,000 Years*. Melville House.
 - Mishkin, F. S. (2018). *The Economics of Money, Banking, and Financial Markets* (12th ed.). Pearson.
