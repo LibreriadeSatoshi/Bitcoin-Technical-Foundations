@@ -17,11 +17,11 @@ Students begin by understanding the fundamentals of value, money, and financial 
 - The evolution of digital money: From credit to crypto-cash.
 
 #### Material
-- *The Internet of Money*, a collection of talks by Andreas M. Antonopoulos ([Original Talks](https://aantonop.com/the-internet-of-money/))
+- [*The Internet of Money*, a collection of talks by Andreas M. Antonopoulos]([Original Talks](https://aantonop.com/the-internet-of-money/))
 
 #### Core Textbooks
 -  [Schools of Economic Thought](https://aantonop.com/the-internet-of-money/](https://www.hetwebsite.net/het/fonseca/notes/schoolsofthought.pdf))
-- Ferguson, N. (2008). *The Ascent of Money: A Financial History of the World*. Penguin Press.
+- [Ferguson, N. (2008). *The Ascent of Money: A Financial History of the World*. Penguin Press.](https://archive.org/details/the-ascent-of-money-a-financial-history/page/n9/mode/2up)
 - Graeber, D. (2011). *Debt: The First 5,000 Years*. Melville House.
 - Mishkin, F. S. (2018). *The Economics of Money, Banking, and Financial Markets* (12th ed.). Pearson.
 - Rothbard, M. N. (2008). *What Has Government Done to Our Money?* Ludwig von Mises Institute.
@@ -48,9 +48,9 @@ Introducing cryptographic principles that underpin Bitcoin’s security, ensurin
 - Principle: "Not your keys, not your coins"
 
 #### Principal Material
-- Princeton Course on Coursera: https://www.coursera.org/learn/cryptocurrency
-- Stanford Cryptography I (Coursera): https://www.coursera.org/learn/crypto
-- Stanford YouTube Channel: https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ
+- [Princeton Course on Coursera:](https://www.coursera.org/learn/cryptocurrency)
+- [Stanford Cryptography I (Coursera):](https://www.coursera.org/learn/crypto)
+- [Stanford YouTube Channel:](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 
 #### Textbooks
 - Katz, J., & Lindell, Y. (2020). *Introduction to Modern Cryptography* (3rd ed.). CRC Press.
