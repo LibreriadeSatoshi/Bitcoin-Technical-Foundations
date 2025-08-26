@@ -48,7 +48,7 @@ Introducing cryptographic principles that underpin Bitcoin’s security, ensurin
 - Principle: "Not your keys, not your coins"
 
 #### Principal Material
-- [Princeton Course on Coursera:](https://www.coursera.org/learn/cryptocurrency)
+- [Princeton Course on Coursera:](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
 - [Stanford Cryptography I (Coursera):](https://www.coursera.org/learn/crypto)
 - [Stanford YouTube Channel:](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 
